@@ -4,7 +4,7 @@ This repository is created for my master thesis and is intended to be available 
 
 The ultimate goal is to forecast the future 6 months of market share of new registration for BEV-PKW in Germany (electrical passenger cars, data source: https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/MonatlicheNeuzulassungen/monatl_neuzulassungen_node.html). 
 
-Please feel free share this repo. I am more than happy to receive your feedback.
+Please feel free to share this repo. I am more than happy to receive your feedback.
 
 
 Yours,
